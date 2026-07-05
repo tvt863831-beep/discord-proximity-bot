@@ -22,7 +22,7 @@ DEFAULT_RANGE = 10 #ระยะเริ่มต้น
 DATA_FILE = "server_data.json"
 MOVE_COOLDOWN = 3.0 #คูลดาวน์การย้าย
 
-ALLOWED_GUILD_IDS = {1516491392468259027} #ไอดีเซิฟ discord
+ALLOWED_GUILD_IDS = {1510209557761359922} #ไอดีเซิฟ discord
 OWNER_USER_IDS = {904046392106967122} #ไอดีเจ้าของ
 
 server_data = {}  
